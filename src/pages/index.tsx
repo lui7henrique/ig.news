@@ -15,7 +15,7 @@ export default function Home({ product }: HomeProps) {
   return (
     <>
       <Head>
-        <title>Home | ig.news</title>
+        <title>Home | IgNews</title>
       </Head>
       <main className={styles.contentContainer}>
         <section className={styles.hero}>
@@ -24,7 +24,7 @@ export default function Home({ product }: HomeProps) {
             News about the <span>React</span> world.
           </h1>
           <p>
-            Get acess to all the publications <br />
+            Get acess to all the posts <br />
             <span>for {product.amount} month</span>
           </p>
           <SubscribeButton priceId={product.priceId} />
