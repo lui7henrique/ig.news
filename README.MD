@@ -3,6 +3,8 @@
 ## 💻 Sobre o projeto
 > Acesse em: https://ig-news-gilt.vercel.app/
 
+![ignews](https://user-images.githubusercontent.com/70612836/125395811-0be8ec80-e382-11eb-94b8-9ce0af456e7b.png)
+
  Ignews é um portal de notícias sobre programação, em que o usuário só pode ter acesso aos conteúdos em texto caso tenha uma inscrição ativa, e para o desenvolvimento da aplicação, foram utilizados serviços externos, como stripe para meios de pagamentos, FaunaDB como banco de dados e GitHub como autenticação. 
  
 ### Módulos: 
