@@ -8,7 +8,7 @@
 ## 💻 Sobre o projeto
 > Acesse em: https://ig-news-gilt.vercel.app/
 
- Ignews é um portal de notícias sobre programação, em que o usuário só pode ter acesso aos conteúdos em textos caso tenha uma inscrição ativa, e para o desenvolvimento da aplicação, foram utilizados serviços externos, como stripe para meios de pagamentos, FaunaDB como banco de dados e GitHub como autenticação. 
+ Ignews é um portal de notícias sobre programação, em que o usuário só pode ter acesso aos conteúdos em textos caso tenha uma inscrição ativa, e para o desenvolvimento da aplicação, foram utilizados serviços externos, como Stripe para meios de pagamentos, FaunaDB como banco de dados e GitHub como autenticação. 
  
 ### Módulos: 
  - 1º Fundamentos do Next.js: Nesse módulo entenderemos como o Next.js transforma a nossa maneira de desenvolver aplicações front-end e descobriremos conceitos importantes como SSR e SSG.
