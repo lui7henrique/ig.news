@@ -10,7 +10,7 @@
  Ignews é um portal de notícias sobre programação, em que o usuário só pode ter acesso aos conteúdos em textos caso tenha uma inscrição ativa, e para o desenvolvimento da aplicação, foram utilizados serviços externos, como Stripe para meios de pagamentos, FaunaDB como banco de dados e GitHub como autenticação. 
  
 ## 📁 Módulos
-#### 🧠 Fundamentos do NextJS:
+### 🧠 Fundamentos do NextJS:
 <details close>
 <summary><strong>Estrutura da aplicação</strong></summary>
  <ol>
@@ -43,9 +43,7 @@
   </ol>
 </details>  
 
-<br/>
-
-#### 👨‍💻 Back-end no front-end:
+### 👨‍💻 Back-end no front-end:
 <details close>
 <summary><strong>API Router no Next.js</strong></summary>
  <ol>
@@ -87,9 +85,7 @@
   </ol>
 </details>  
 
-&nbsp;
-
-#### 💻 Front-end JAMStack:
+### 💻 Front-end JAMStack:
 <details close>
 <summary><strong>Trabalhando com CMS</strong></summary>
  <ol>
