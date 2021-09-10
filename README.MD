@@ -89,6 +89,33 @@
 
 &nbsp;
 
+#### 💻 Front-end JAMStack:
+<details close>
+<summary><strong>Trabalhando com CMS</strong></summary>
+ <ol>
+   <li>Escolhendo um CMS</li>
+   <li>Configurando Prismic CMS</li>
+   <li>Página: Posts/li>
+   <li>Consumindo API do Prismic</li>
+   <li>Listando posts em tela</li>
+   <li>Navegação no menu</li>
+   <li>Componente: ActiveLink</li>
+  </ol>
+</details>  
+
+<details close>
+<summary><strong>Páginas estáticas</strong></summary>
+ <ol>
+   <li>Página: Post</li>
+   <li>Validando assinatura ativa</li>
+   <li>Página: Preview do post</li>
+   <li>Gerando previews estáticos</li>
+   <li>Finalização do módulo</li>
+ </ol>
+</details>  
+
+&nbsp;
+
 ## 👨‍💻 Tecnologias:
 - [ReactJS](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
